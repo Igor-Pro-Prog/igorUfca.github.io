@@ -1,3 +1,3 @@
 # igorUfca.github.io
 
-Leanding Page (Meu Curr
+Leanding Page Curr
